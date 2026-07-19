@@ -283,7 +283,3 @@ By combining revenue analytics, logistics monitoring, and supplier intelligence,
 - A scalable analytical framework for future supply chain intelligence initiatives.
 
 ---
-
-## Contact
-
-- Email: oluwafikayore@gmail.com
